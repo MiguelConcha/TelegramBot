@@ -7,4 +7,4 @@ def command_iscreador(m):
     if(cid == autorizado or us == usermsg):
         bot.send_message(cid, 'oh gran %s mi creador')
     else:
-        bot.send_message(cid, 'no eres mi craedor vete a la mierda')
+        bot.send_message(cid, 'Tú no eres mi creador!	')
