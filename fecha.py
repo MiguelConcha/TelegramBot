@@ -17,5 +17,5 @@ def command_fecha(m):
         12: "diciembre"
     }
     mes = switcher[x.month]
-    fecha = "Estamos a %s de %s" % (x.day, mes)
+    fecha = "Estamos a %s de %s del año %s" % (x.day, mes, x.year)
     bot.send_message(cid, fecha)

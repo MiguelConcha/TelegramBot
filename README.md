@@ -1,5 +1,10 @@
 # telegram-bot
 ===============
+To make it functional, you need to create a bot by talking to @BotFather in Telegram. Use the command "/newbot"
+to create a new bot and name it. After that, the BotFather will provide you with a TOKEN, which you will need to copy into the main.py file in line 7. 
+
+Later on, you just need to add the telegram bot you created in Telegram and it will be equiped with all the functionalities described below. 
+================
 
 general purpose bot, intended to ease group conversations or individual work. It has various automatized activies making the user's life easier when in Telegram.
 
