@@ -1,5 +1,9 @@
-# telegram-bot
-===============
+#Práctica 3 - Modelado y Programación - 2017-1 - UNAM
+
+Proyecto obtenido de: [Absolute link](https://github.com/ineedblood/telegram-bot)
+================
+
+# TelegramBot
 To make it functional, you need to create a bot by talking to @BotFather in Telegram. Use the command "/newbot"
 to create a new bot and name it. After that, the BotFather will provide you with a TOKEN, which you will need to copy into the main.py file in line 7. 
 
