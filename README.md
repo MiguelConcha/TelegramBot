@@ -1,6 +1,6 @@
 #Práctica 3 - Modelado y Programación - 2017-1 - UNAM
 
-Proyecto obtenido de: [Absolute link](https://github.com/ineedblood/telegram-bot)
+Proyecto obtenido de: https://github.com/ineedblood/telegram-bot
 ================
 
 # TelegramBot
@@ -33,7 +33,7 @@ List of included plugins:
 
 ==================
 Bot multipropósito para facilitar las conversaciones de grupo a trabajo individual en Telegram. 
-POsee muchas actividades automatizadas, haciendo la vida más fácil en Telegram. 
+Posee muchas actividades automatizadas, haciendo la vida más fácil en Telegram. 
 
 Algunos de los plugins incluídos son: 
 
