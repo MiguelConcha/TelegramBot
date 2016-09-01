@@ -2,7 +2,7 @@
 
 Proyecto obtenido de: https://github.com/ineedblood/telegram-bot
 ================
-
+![bot](https://cloud.githubusercontent.com/assets/13952922/18152580/5f6da25e-6fbc-11e6-8354-30176c68b02f.jpg)
 # TelegramBot
 To make it functional, you need to create a bot by talking to @BotFather in Telegram. Use the command "/newbot"
 to create a new bot and name it. After that, the BotFather will provide you with a TOKEN, which you will need to copy into the main.py file in line 7. 
