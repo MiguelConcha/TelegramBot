@@ -46,7 +46,7 @@ Algunos de los plugins incluídos son:
 * get current date (fecha actual)
 * Checar si un sitio web está en línea (/isup)
 * obtener línea del tiempo de *twitter* 
-* obteber una imágen aleatoria de *danbooru*(nsfw)
+* obtener una imágen aleatoria de *danbooru*(nsfw)
 * obtener un trhead aleatorio de *forocoches* 
 * Repetir un texto determinado dado (spam feature)
 * Mandar un mensaje a todos los que le hablaron
