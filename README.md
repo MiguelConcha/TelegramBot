@@ -47,7 +47,7 @@ Algunos de los plugins incluídos son:
 * Checar si un sitio web está en línea (/isup)
 * obtener línea del tiempo de *twitter* 
 * obtener una imágen aleatoria de *danbooru*(nsfw)
-* obtener un trhead aleatorio de *forocoches* 
+* obtener un thread aleatorio de *forocoches* 
 * Repetir un texto determinado dado (spam feature)
 * Mandar un mensaje a todos los que le hablaron
 * *RAE* (Diccionario de la Real Academia de la Lengua Española)
